@@ -1,7 +1,6 @@
-import fs from "fs/promises"
+import fs from "fs/promises";
 import { randomUUID } from "crypto";
-import path from "path"
-
+import path from "path";
 
 const contactsPath = path.join("db", "contacts.json");
 
@@ -30,8 +29,6 @@ export async function removeContact(contactId) {
 
 export async function addContact(name, email, phone) {
   const contacts = await listContacts();
-  const newList = [...contacts,{ id: randomUUID() , name, email, phone }];
+  const newList = [...contacts, { id: randomUUID(), name, email, phone }];
   fs.writeFile(contactsPath, JSON.stringify(newList));
-
 }
-
