@@ -1,4 +1,4 @@
-https://drive.google.com/file/d/157MuzAcULjQkOX6OVyz8cnJZ0GRgLVlm/view?usp=share_link
-https://drive.google.com/file/d/1laBja-STz-OsiimBXfh6B9pFxK1DqgM_/view?usp=share_link
-https://drive.google.com/file/d/1Swgxh0-hkWP7tzkOQj2GLl8k_JmlNHW9/view?usp=share_link
-https://drive.google.com/file/d/1AESWwJOf5aPd_3vnapdYlUDSlFn6pfSq/view?usp=share_link
+https://monosnap.com/file/SWddBMRkQ5X7bhNBtzYLUpaS4DxaBQ
+https://monosnap.com/file/9iHHs2VcesUSTriyG9abogwG2rcGei
+https://monosnap.com/file/0bQx2N0PiNsGM8PTWqoqKCF9YY28pw
+https://monosnap.com/file/sDv39TaIGmBNmU6Qb9AxXUqKXa5x8V
